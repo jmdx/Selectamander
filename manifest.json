@@ -1,6 +1,6 @@
 {
   "name": "Selectamander",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "Watches a css selector for the number of matching elements.",
   "icons": {

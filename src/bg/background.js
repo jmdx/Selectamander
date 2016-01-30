@@ -27,7 +27,7 @@
       updateCountDisplay(request.count);
     }
   });
-  chrome.storage.sync.get({defaultSelector: 250}, function (items) {
+  chrome.storage.sync.get({defaultSelector: ''}, function (items) {
     defaultSelector = items.defaultSelector;
   });
   chrome.storage.onChanged.addListener(function (changes) {
