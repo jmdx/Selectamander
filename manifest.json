@@ -2,9 +2,8 @@
   "name": "Selectamander",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Watches a css selector for the number of matching elements.  Intended for testing cross-site scripting, but useful for web development in general.",
+  "description": "Watches a css selector for the number of matching elements.",
   "icons": {
-    "19": "icons/icon19.png",
     "128": "icons/icon128.png"
   },
   "background": {
